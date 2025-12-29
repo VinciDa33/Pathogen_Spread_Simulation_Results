@@ -1,0 +1,18 @@
+
+<><><> GENERATION 0 <><><>
+Agent = G0A1
+Death Fitness 0
+Happiness Fitness 326168
+
+Agent = G1A0
+Death Fitness 0
+Happiness Fitness 326168
+
+Agent = G0A0
+Death Fitness 0
+Happiness Fitness 326168
+
+Agent = G1A1
+Death Fitness 0
+Happiness Fitness 326168
+
