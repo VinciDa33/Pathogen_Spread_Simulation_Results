@@ -1,0 +1,10 @@
+
+<><><> GENERATION 0 <><><>
+Agent = G0A0
+Death Fitness 95
+Happiness Fitness 1202656
+
+Agent = G1A0
+Death Fitness 90
+Happiness Fitness 1200638
+

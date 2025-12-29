@@ -1,0 +1,6 @@
+
+<><><> GENERATION 0 <><><>
+Agent = G0A2
+Death Fitness 87
+Happiness Fitness 1201239
+
